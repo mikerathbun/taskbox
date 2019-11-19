@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This is the project for Intro to Storybook
+[Intro to Storybook](https://www.learnstorybook.com/intro-to-storybook/)
+[Github Repo](https://github.com/chromaui/learnstorybook-code)
 ## Available Scripts
 
 In the project directory, you can run:
