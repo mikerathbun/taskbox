@@ -1,4 +1,3 @@
-// Stopped at TaskList.stories.js a little over half way.
 import React from "react";
 import PropTypes from 'prop-types';
 
