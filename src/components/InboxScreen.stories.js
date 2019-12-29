@@ -6,6 +6,8 @@ import { Provider } from 'react-redux';
 import { PureInboxScreen } from './InboxScreen';
 import { defaultTasks } from './TaskList.stories';
 
+// https://www.learnstorybook.com/intro-to-storybook/react/en/screen/
+// Supplying context with decorators
 // A super-simple mock of a redux store
 const store = {
     getState: () => {
