@@ -5,6 +5,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [Github Repo](https://github.com/chromaui/learnstorybook-code)
 ## Available Scripts
 
+To remove the sidebar on the Storybook site run the following in the Scripts area.
+```
+var sideBar = document.querySelector('[class*=SidebarWrapper]');
+console.clear();
+
+if (sideBar) {
+    sideBar.remove();
+} else {
+    console.log("Could not find sidebar");
+}
+```
 In the project directory, you can run:
 
 ### `yarn start`
